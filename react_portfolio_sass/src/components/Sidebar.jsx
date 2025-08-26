@@ -10,7 +10,7 @@ const Sidebar = () => {
       <img
         src={Avatar}
         alt="João Victor Parreiras"
-        style={{ width: "11.5rem" }}
+        style={{ width: "50.5rem" }}
       />
       <p className="title">
         Desenvolvedor <br />
