@@ -1,4 +1,4 @@
-import Avatar from "../img/Foto_profissional_portfolio_react.jpg";
+import Avatar from "../img/foto_perfil_portfolio_1-removebg-preview.png";
 
 import "../styles/components/sidebar.sass";
 import SocialNetworks from "./SocialNetworks";
